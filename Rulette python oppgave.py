@@ -57,3 +57,4 @@ while game:
     else:
         print("Få en jobb din fattige person")
         game = 0
+#bæsj
